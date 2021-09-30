@@ -1,0 +1,15 @@
+{
+  "name": "licensebotdemo",
+  "version": "1.0.0",
+  "description": "discord bot to check licenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "licenseBotDemo"
+  },
+  "author": "Aaron",
+  "license": "ISC"
+}
