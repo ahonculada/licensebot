@@ -11,5 +11,8 @@
     "url": "licenseBotDemo"
   },
   "author": "Aaron",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
 }
